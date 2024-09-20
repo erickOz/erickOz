@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ezea-247" target="blank"><img align="center" src="https://erickoz.github.io/public/assets/icons/linkedin.svg" alt="ezea-247" height="30" width="40" /></a>
 <a href="https://instagram.com/aez247" target="blank"><img align="center" src="https://erickoz.github.io/public/assets/icons/instagram.svg" alt="aez247" height="30" width="40" /></a>
-<a href="https://github.com/erickOz" target="blank"><img align="center" src="https://erickoz.github.io/public/assets/icons/square-github.svg)" alt="erickOz" height="30" width="40" /></a>
+<a href="https://github.com/erickOz" target="blank"><img align="center" src="https://erickoz.github.io/public/assets/icons/square-github.svg" alt="erickOz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
